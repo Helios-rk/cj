@@ -16,6 +16,7 @@ public class Oddeven {
 		else{
 			System.out.println("even number");
 		}
+		
 	}
 
 }
